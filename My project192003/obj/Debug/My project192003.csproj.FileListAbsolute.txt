@@ -1,0 +1,10 @@
+D:\code\c#\My project192003\My project192003\bin\Debug\My project192003.exe.config
+D:\code\c#\My project192003\My project192003\obj\Debug\My project192003.csprojResolveAssemblyReference.cache
+D:\code\c#\My project192003\My project192003\obj\Debug\My_project192003.Form1.resources
+D:\code\c#\My project192003\My project192003\obj\Debug\My_project192003.Properties.Resources.resources
+D:\code\c#\My project192003\My project192003\obj\Debug\My project192003.csproj.GenerateResource.Cache
+D:\code\c#\My project192003\My project192003\bin\Debug\My project192003.exe
+D:\code\c#\My project192003\My project192003\bin\Debug\My project192003.pdb
+D:\code\c#\My project192003\My project192003\obj\Debug\My project192003.exe
+D:\code\c#\My project192003\My project192003\obj\Debug\My project192003.pdb
+D:\code\c#\My project192003\My project192003\obj\Debug\My_project192003.Attribu.resources
